@@ -10,15 +10,15 @@
 </a>
 </p>
 
-👨🏻‍💻 Tentang Saya
+👨🏻‍💻 About Me
 
-🔭 Saya saat ini berfokus pada pembangunan pipeline data yang tangguh, analitik, dan model machine learning.
+🔭 I am currently focusing on building robust data pipelines, analytics, and machine learning models.
 
-🌱 Saya sedang mendalami konsep lanjutan dalam Cloud Computing dan Data Architectures.
+🌱 I am diving deep into advanced concepts of Cloud Computing and Data Architectures.
 
-💬 Mari berdiskusi tentang Python, SQL, proses ETL, dan Visualisasi Data.
+💬 Let's talk about Python, SQL, ETL processes, and Data Visualization.
 
-📫 Hubungi saya melalui LinkedIn.
+📫 Reach out to me via LinkedIn.
 
 🛠️ Languages and Tools
 
